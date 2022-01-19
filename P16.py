@@ -1,6 +1,6 @@
 #string format
 
-def foo(name):
+def name_format(name):
     return "Hi %s" % name.title()
 
-print(foo('pavan'))
+print(name_format('pavan'))
