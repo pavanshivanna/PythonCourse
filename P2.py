@@ -3,7 +3,7 @@
 number1 = input("First number: ")
 number2 = input("\nSecond number: ")
 
-# Adding two numbers
+# Adding two number
 # User might also enter float numbers
 sum = float(number1) + float(number2)
 
