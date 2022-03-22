@@ -7,5 +7,5 @@ class Vehicle:
         self.max_speed = max_speed
         self.mileage = mileage
 
-modelX = Vehicle(240, 18)
+modelX = Vehicle(240, 20)
 print(modelX.max_speed, modelX.mileage)
