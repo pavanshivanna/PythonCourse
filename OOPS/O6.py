@@ -9,7 +9,7 @@ class Vehicle:
 class Bus(Vehicle):
     pass
 
-School_bus = Bus("School Volvo", 12, 50)
+School_bus = Bus("School Vol", 12, 50)
 
 # Python's built-in type()
 print(type(School_bus))
